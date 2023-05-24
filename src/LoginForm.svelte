@@ -12,7 +12,7 @@
     error = '';
 
     // Redirect to the other application in another tab
-    const otherAppURL = 'https://646dad3690cf0451df827f2a--quiet-tulumba-cfb481.netlify.app/';
+    const otherAppURL = 'https://646db108f8b23e6068343e32--tourmaline-tarsier-6f80e4.netlify.app/';
     const params = {
       username: username,
       password: password
