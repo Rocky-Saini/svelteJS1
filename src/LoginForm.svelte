@@ -12,7 +12,7 @@
     error = '';
 
     // Redirect to the other application in another tab
-    const otherAppURL = 'http://localhost:53571/';
+    const otherAppURL = 'https://646dad3690cf0451df827f2a--quiet-tulumba-cfb481.netlify.app/';
     const params = {
       username: username,
       password: password
